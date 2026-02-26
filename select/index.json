@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Believe again",
+  "base_artist": "Saint Snow",
+  "createdAt": "2026-02-26T02:37:47.681521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Believe Again",
+      "artist": "Delta Goodrem",
+      "has_synced": false,
+      "path": "select/01_Believe_Again_Delta_Goodrem.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Believe Again - Radio Edit",
+      "artist": "Delta Goodrem",
+      "has_synced": true,
+      "path": "select/02_Believe_Again_-_Radio_Edit_Delta_Goodrem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Believe Again (radio edit)",
+      "artist": "Delta Goodrem",
+      "has_synced": true,
+      "path": "select/03_Believe_Again_(radio_edit)_Delta_Goodrem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Make Me Believe Again",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/04_Make_Me_Believe_Again_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Believe Again",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/05_Believe_Again_Yes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Make Me Believe Again",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/06_Make_Me_Believe_Again_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nickelback - Make Me Believe Again (Audio)",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/07_Nickelback_-_Make_Me_Believe_Again_(Audio)_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Believe Again",
+      "artist": "Ra",
+      "has_synced": true,
+      "path": "select/08_I_Believe_Again_Ra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Believe Again",
+      "artist": "Saint Snow",
+      "has_synced": true,
+      "path": "select/09_Believe_Again_Saint_Snow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Believe Again",
+      "artist": "Ronan Keating feat. Paulini",
+      "has_synced": true,
+      "path": "select/10_Believe_Again_Ronan_Keating_feat._Paulini.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Believe Again",
+      "artist": "Ronan Keating",
+      "has_synced": true,
+      "path": "select/11_Believe_Again_Ronan_Keating.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Believe again - 【劇場版挿入歌 (MOVIEサイズ)",
+      "artist": "Saint Snow",
+      "has_synced": true,
+      "path": "select/12_Believe_again_-_【劇場版挿入歌_(MOVIEサイズ)_Saint_Snow.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Believe again 【劇場版挿入歌(MOVIEサイズ)】",
+      "artist": "Saint Snow",
+      "has_synced": true,
+      "path": "select/13_Believe_again_【劇場版挿入歌(MOVIEサイズ)】_Saint_Snow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Believe again",
+      "artist": "Saint Snow",
+      "has_synced": false,
+      "path": "select/pl_01_Believe_again_Saint_Snow.txt"
+    }
+  ]
+}
